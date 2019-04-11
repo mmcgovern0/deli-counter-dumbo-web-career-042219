@@ -6,11 +6,11 @@ def line(katzDeliLine, name)
     puts "The line is currently empty."
   else
   katzDeliLine << "#{name}"
-  puts "Welcome #{name}. You are #{katzDeliLine.size} in line."
+  
 end
 
 def take_a_number(katzDeliLine)
-  
+  puts "Welcome #{name}. You are #{katzDeliLine.size} in line."
 end
 
 def now_serving(katzDeliLine)
