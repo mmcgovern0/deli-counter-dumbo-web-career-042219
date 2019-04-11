@@ -19,6 +19,10 @@ def take_a_number(katzDeliLine, name)
 end
 
 def now_serving(katzDeliLine)
+  if katzDeliLine.empty?
+    puts "There is nobody waiting to be served!"
+  else
+    
   
 end
     
