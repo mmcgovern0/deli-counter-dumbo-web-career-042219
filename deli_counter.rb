@@ -13,7 +13,7 @@ def line(katzDeliLine)
   end
 end
 
-def take_a_number(katzDeliLine)
+def take_a_number(katzDeliLine, name)
   puts "Welcome #{name}. You are #{katzDeliLine.size} in line."
 end
 
