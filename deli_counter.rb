@@ -1,7 +1,9 @@
 # Write your code here.
 katzDeliLine = []
 
-def line
+def line(katzDeliLine, name)
+  katzDeliLine << "#{name}"
+  puts "Welcome #{name}. You are #{katzDeliLine"
   
 
 end
