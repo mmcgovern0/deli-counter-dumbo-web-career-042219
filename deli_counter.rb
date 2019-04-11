@@ -2,9 +2,14 @@
 katzDeliLine = []
 
 def line(katzDeliLine)
-  if katzDeliLine == []
-    puts "The line is currently empty"
-  end
-  if katzDeliLine.size > 0
-    puts 
+
+end
+
+def take_a_number(katzDeliLine)
+  
+end
+
+def now_serving(katzDeliLine)
+  
+end
     
