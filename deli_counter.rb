@@ -1,7 +1,8 @@
 # Write your code here.
 katzDeliLine = []
 
-def line(katzDeliLine)
+def line
+  
 
 end
 
