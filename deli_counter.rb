@@ -9,6 +9,8 @@ def line(katzDeliLine, name)
     katzDeliLine.each_with_index do |index, name|
       current_line << "#{index + 1}. #{name}." 
     end
+    puts current_line
+  end
 end
 
 def take_a_number(katzDeliLine)
