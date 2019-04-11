@@ -5,7 +5,8 @@ def line(katzDeliLine, name)
   if katzDeliLine.empty?
     puts "The line is currently empty."
   else
-    current line = ""
+    current line = "The line is currently: "
+    katzDeliLine.each_with_index |name, index|
   katzDeliLine << "#{name}"
   
 end
