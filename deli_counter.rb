@@ -23,6 +23,6 @@ def now_serving(katzDeliLine)
     puts "There is nobody waiting to be served!"
   else
     
-  
+  end
 end
     
