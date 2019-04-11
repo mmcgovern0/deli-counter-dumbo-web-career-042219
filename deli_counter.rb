@@ -3,9 +3,7 @@ katzDeliLine = []
 
 def line(katzDeliLine, name)
   katzDeliLine << "#{name}"
-  puts "Welcome #{name}. You are #{katzDeliLine"
-  
-
+  puts "Welcome #{name}. You are #{katzDeliLine.size} in line."
 end
 
 def take_a_number(katzDeliLine)
