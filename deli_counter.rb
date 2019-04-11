@@ -1,7 +1,7 @@
 # Write your code here.
 katzDeliLine = []
 
-def line(katzDeliLine, name)
+def line(katzDeliLine)
   if katzDeliLine.empty?
     puts "The line is currently empty."
   else
